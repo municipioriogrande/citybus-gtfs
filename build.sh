@@ -1,2 +1,3 @@
 #!/bin/bash
-zip -r build/CityBus.zip gtfs/
+cd gtfs
+zip ../build/CityBus.zip *
