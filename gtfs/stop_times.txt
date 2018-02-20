@@ -1,5 +1,5 @@
 trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,timepoint
-t_d,,,RG374,1,Misión Salesiana,0
+t_d,0:00:00,0:00:00,RG374,1,Misión Salesiana,0
 t_d,,,RG400,2,Misión Salesiana,0
 t_d,,,RG401,3,Misión Salesiana,0
 t_d,,,RG403,4,Misión Salesiana,0
@@ -14,3 +14,4 @@ t_d,,,RG412,12,Chacra II,0
 t_d,,,RG413,13,Chacra II,0
 t_d,,,RG242,14,Chacra II,0
 t_d,,,RG415,15,Chacra II,0
+t_d,0:50:00,0:50:00,RG374,16,Chacra II,0
