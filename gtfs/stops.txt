@@ -1,0 +1,55 @@
+stop_lon,stop_name,stop_lat,stop_id
+-67.721626,Anadón e Illia,-53.768551,0
+-67.721036,Anadón entre Eva Perón y Sobral,-53.766649,32
+-67.697768,Av. Belgrano entre Ameghino y Mackinlay,-53.782712,37
+-67.700614,Av. Belgrano entre Av. San Martín y Rosales - Este,-53.785113,28
+-67.701134,Av. Belgrano entre Av. San Martín y Rosales - Oeste,-53.785072,14
+-67.7115727,Av. San Martín entre Alte. Brown y Finocchio - Norte,-53.7807438,12
+-67.7123341,Av. San Martín entre Alte. Brown y Finocchio - Sur,-53.7807051,19
+-67.703869,Av. San Martín entre Estrada y Piedrabuena,-53.784579,6
+-67.709298,Av. San Martín entre Fournier y Don Bosco,-53.781891,1
+-67.699578,Av. San Martín entre Rivadavia y Fagnano - Norte,-53.786778,7
+-67.699835,Av. San Martín entre Rivadavia y Fagnano - Sur,-53.787076,2
+-67.707292,Av. San Martín y 25 de Mayo - Norte,-53.782861,33
+-67.707925,Av. San Martín y 25 de Mayo - Sur,-53.782956,17
+-67.697958,Av. San Martín y Espora,-53.788014,3
+-67.710092,Av. San Martín y Fournier,-53.781821,18
+-67.694106,Av. San Martín y Luis Py - Norte,-53.789586,13
+-67.695115,Av. San Martín y Luis Py - Sur,-53.789497,4
+-67.716985,Av. San Martín y Wilson - Norte,-53.778087,20
+-67.716433,Av. San Martín y Wilson - Sur,-53.778518,38
+-67.71933,Cambaceres y Cabo de Hornos,-53.769585,31
+-67.701166,Estrada y Mackinlay,-53.781929,24
+-67.703526,Estrada y Rosales,-53.783526,5
+-67.716229,Lapataia y Eva Perón,-53.766877,36
+-67.700415,Mackinlay entre Estrada y Piedrabuena,-53.782246,39
+-67.702056,Piedrabuena y Rosales,-53.783932,21
+-67.710586,Posadas y Buenos Aires,-53.775621,40
+-67.725134,Prefectura Naval entre Isla de los Estados e Ibarra,-53.771522,16
+-67.725807,Prefectura Naval entre Isla de los Estados y Av. San Martín,-53.772614,15
+-67.72346,Prefectura Naval entre Provincias Unidas y Goytisolo,-53.76486,11
+-67.727966,Provincias Unidas y Patagonia,-53.76453,35
+-67.7235463,RG242 - Provincias Unidas y Prefectura Naval,-53.7650412,RG242
+-67.7236747,RG374 - Prefectura Naval y Aeroposta Argentina,-53.7670766,RG374
+-67.7231169,RG400 - Prefectura Naval y Provincias Unidas,-53.7652185,RG400
+-67.7221298,RG401 - Prefectura Naval y Santa Rosa - Este,-53.7621997,RG401
+-67.7216792,RG403 - Prefectura Naval y Berta Weber,-53.7606585,RG403
+-67.7341032,RG404 - Ruta Nacional 3 y Ramón Nonato - Norte,-53.7505284,RG404
+-67.7446175,RG405 - Ruta Nacional 3 - Total - Norte,-53.7472072,RG405
+-67.7617407,RG406 - Ruta Nacional 3 - Juzgado - Norte,-53.7419378,RG406
+-67.7987271,RG408 - Ruta Nacional 3 - Misión Salesiana,-53.7245005,RG408
+-67.7609307,RG409 - Ruta Nacional 3 - Juzgado - Sur,-53.7423439,RG409
+-67.7447784,RG410 - Ruta Nacional 3 - Total - Sur,-53.7472992,RG410
+-67.7342051,RG411 - Ruta Nacional 3 y Ramón Nonato - Sur,-53.7506077,RG411
+-67.7219958,RG412 - Prefectura Naval y Martos,-53.7605095,RG412
+-67.7224996,RG413 - Prefectura Naval y Santa Rosa - Oeste,-53.7621967,RG413
+-67.7265126,RG415 - Pionero Fueguinos y Aeroposta Argentina,-53.7667373,RG415
+-67.72022,Santa Rosa y Anadón,-53.763287,10
+-67.708233,Ushuaia y Entre Ríos,-53.772547,26
+-67.716486,Ushuaia y Pellegrini,-53.768418,23
+-67.714266,Ushuaia y Perú,-53.769508,8
+-67.709706,Ushuaia y Santa Cruz,-53.771782,25
+-67.707657,Viedma y Buenos Aires,-53.77408,22
+-67.713944,Viedma y Lima,-53.770853,27
+-67.710435,Viedma y Santa Cruz,-53.772723,29
+-67.71668,Viedma y Venezuela,-53.769508,30

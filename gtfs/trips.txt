@@ -1,0 +1,2 @@
+route_id,service_id,trip_id,shape_id
+r_d,1,t_d,Línea D
