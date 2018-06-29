@@ -1,5 +1,5 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
-1530,355,RAMAL B,RAMAL B,,3,,68f442,000000,1
-1531,355,RAMAL C,RAMAL C,,3,,f44242,000000,2
-1532,355,RAMAL D,RAMAL D,,3,,f4f442,000000,3
-1529,355,RAMAL A,RAMAL A,,3,,4286f4,000000,0
+1530,355,B,RAMAL B,,3,,68f442,000000,1
+1531,355,C,RAMAL C,,3,,f44242,000000,2
+1532,355,D,RAMAL D,,3,,f4f442,000000,3
+1529,355,A,RAMAL A,,3,,4286f4,000000,0
