@@ -1,2 +1,5 @@
-route_id,service_id,trip_id,shape_id
-r_d,1,t_d,Línea D
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1529,SE001,1529,,,0,,,0,0
+1530,SE001,1530,,,0,,,0,0
+1531,SE001,1531,,,0,,,0,0
+1532,SE001,1532,,,0,,,0,0

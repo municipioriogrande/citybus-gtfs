@@ -1,5 +1,5 @@
-route_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,route_sort_order
-r_a,A,Ramal A,"Cubre los barrios Chacra XII, Chacra XI, San Martín, Centro, Austral y Margen Sur. ",3,0B4FBC,FFFFFF,1
-r_b,B,Ramal B,"Cubre los barrios Centro, Chacra IV, Chacra II, Intevu y Danés",3,06650C,FFFFFF,2
-r_c,C,Ramal C,"Cubre los barrios Centro, Mutual, Chacra II y Austral",3,A50909,FFFFFF,3
-r_d,D,Ramal D,"Cubre los barrios Chacra II, Policial, YPF y la Misión Salesiana",3,555606,FFFFFF,4
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+1530,355,RAMAL B,RAMAL B,,3,,68f442,000000,1
+1531,355,RAMAL C,RAMAL C,,3,,f44242,000000,2
+1532,355,RAMAL D,RAMAL D,,3,,f4f442,000000,3
+1529,355,RAMAL A,RAMAL A,,3,,4286f4,000000,0
