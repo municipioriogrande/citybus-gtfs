@@ -15,6 +15,10 @@ This project contains GTFS feed for CityBus buses in Rio Grande, Tierra del Fueg
 3. View changes if required by running: `sh view.sh`
 4. Once everything is OK you can build a zipped bundle of gtfs feed using the command: `sh build.sh`
 
+## Transitfeed
+
+For using tools in transit feed repo, read its docs [here](https://github.com/google/transitfeed/wiki)
+
 ## License
 
 Distributed under MIT, see license [here](LICENSE)
