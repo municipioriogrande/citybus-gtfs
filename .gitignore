@@ -6,3 +6,6 @@ gtfs/.~lock*
 
 # Validation Results
 validation-results.html
+
+.vscode/
+generated/
