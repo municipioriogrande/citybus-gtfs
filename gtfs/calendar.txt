@@ -1,4 +1,7 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-weekdays,1,1,1,1,1,0,0,20180101,20181231
-saturdays,0,0,0,0,0,1,0,20180101,20181231
-holidays,0,0,0,0,0,0,1,20180101,20181231
+weekdays_1,1,1,1,1,1,0,0,20180101,20180215
+saturdays_1,0,0,0,0,0,1,0,20180101,20180215
+holidays_1,0,0,0,0,0,0,1,20180101,20180215
+weekdays_2,1,1,1,1,1,0,0,20180215,20181231
+saturdays_2,0,0,0,0,0,1,0,20180215,20181231
+holidays_2,0,0,0,0,0,0,1,20180215,20181231
