@@ -3,12 +3,12 @@ a_holidays,a,holidays,,,0,a,1529,0,0
 a_saturdays,a,saturdays,,,0,a,1529,0,0
 a_weekdays,a,weekdays,,,0,a,1529,0,0
 a_weekdays_vacations,a,weekdays_vacations,,,0,a,1529,0,0
-b_holidays,b,holidays_1,,,0,b,1530,0,0
-b_saturdays,b,saturdays_1,,,0,b,1530,0,0
+b_holidays,b,holidays,,,0,b,1530,0,0
+b_saturdays,b,saturdays,,,0,b,1530,0,0
 b_weekdays,b,weekdays,,,0,b,1530,0,0
 b_weekdays_vacations,b,weekdays_vacations,,,0,b,1530,0,0
 c_holidays,c,holidays,,,0,c,1531,0,0
 c_saturdays,c,saturdays,,,0,c,1531,0,0
 c_weekdays,c,weekdays,,,0,c,1531,0,0
 c_weekdays_vacations,c,weekdays_vacations,,,0,c,1531,0,0
-d_every_day,d,every_day,,,0,d,1532,0,0
+d_everyday,d,every_day,,,0,d,1532,0,0

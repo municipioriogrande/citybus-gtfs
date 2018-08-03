@@ -1,0 +1,15 @@
+service_id,date,exception_type
+weekdays,20180820,2
+holidays,20180820,1
+weekdays,20181015,2
+holidays,20181015,1
+weekdays,20181119,2
+holidays,20181119,1
+saturdays,20181208,2
+holidays,20181208,1
+weekdays,20181224,2
+holidays,20181224,1
+weekdays,20181225,2
+holidays,20181225,1
+weekdays,20181231,2
+holidays,20181231,1
