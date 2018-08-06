@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Municipalidad de Río Grande,https://riogrande.gob.ar/,ES,20180101,20181231,1.0
