@@ -1,5 +1,5 @@
 trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,shape_dist_traveled,timepoint
-a_weekdays,00:00:00,00:00:00,RG001,0,,3,3,,1
+a_weekdays,00:00:00,00:00:00,RG001,0,,3,3,,0
 a_weekdays,,,RG002,1,,3,3,,0
 a_weekdays,,,RG003,2,,3,3,,0
 a_weekdays,,,RG004,3,,3,3,,0
@@ -107,8 +107,9 @@ a_weekdays,,,RG140,104,,3,3,,0
 a_weekdays,,,RG141,105,,3,3,,0
 a_weekdays,,,RG142,106,,3,3,,0
 a_weekdays,,,RG143,107,,3,3,,0
-a_weekdays,01:50:00,01:50:00,RG144,108,,3,3,,0
-a_weekdays_vacations,00:00:00,00:00:00,RG001,0,,3,3,,1
+a_weekdays,,,RG144,108,,3,3,,0
+a_weekdays,01:50:00,01:50:00,RG001,109,,3,3,,0
+a_weekdays_vacations,00:00:00,00:00:00,RG001,0,,3,3,,0
 a_weekdays_vacations,,,RG002,1,,3,3,,0
 a_weekdays_vacations,,,RG003,2,,3,3,,0
 a_weekdays_vacations,,,RG004,3,,3,3,,0
@@ -216,8 +217,9 @@ a_weekdays_vacations,,,RG140,104,,3,3,,0
 a_weekdays_vacations,,,RG141,105,,3,3,,0
 a_weekdays_vacations,,,RG142,106,,3,3,,0
 a_weekdays_vacations,,,RG143,107,,3,3,,0
-a_weekdays_vacations,01:50:00,01:50:00,RG144,108,,3,3,,0
-a_saturdays,00:00:00,00:00:00,RG001,0,,3,3,,1
+a_weekdays_vacations,,,RG144,108,,3,3,,0
+a_weekdays_vacations,01:50:00,01:50:00,RG001,109,,3,3,,0
+a_saturdays,00:00:00,00:00:00,RG001,0,,3,3,,0
 a_saturdays,,,RG002,1,,3,3,,0
 a_saturdays,,,RG003,2,,3,3,,0
 a_saturdays,,,RG004,3,,3,3,,0
@@ -325,8 +327,9 @@ a_saturdays,,,RG140,104,,3,3,,0
 a_saturdays,,,RG141,105,,3,3,,0
 a_saturdays,,,RG142,106,,3,3,,0
 a_saturdays,,,RG143,107,,3,3,,0
-a_saturdays,01:50:00,01:50:00,RG144,108,,3,3,,0
-a_holidays,00:00:00,00:00:00,RG001,0,,3,3,,1
+a_saturdays,,,RG144,108,,3,3,,0
+a_saturdays,01:50:00,01:50:00,RG001,109,,3,3,,0
+a_holidays,00:00:00,00:00:00,RG001,0,,3,3,,0
 a_holidays,,,RG002,1,,3,3,,0
 a_holidays,,,RG003,2,,3,3,,0
 a_holidays,,,RG004,3,,3,3,,0
@@ -434,8 +437,9 @@ a_holidays,,,RG140,104,,3,3,,0
 a_holidays,,,RG141,105,,3,3,,0
 a_holidays,,,RG142,106,,3,3,,0
 a_holidays,,,RG143,107,,3,3,,0
-a_holidays,01:50:00,01:50:00,RG144,108,,3,3,,0
-b_weekdays,00:00:00,00:00:00,RG300,0,,3,3,,1
+a_holidays,,,RG144,108,,3,3,,0
+a_holidays,01:50:00,01:50:00,RG001,109,,3,3,,0
+b_weekdays,00:00:00,00:00:00,RG300,0,,3,3,,0
 b_weekdays,,,RG301,1,,3,3,,0
 b_weekdays,,,RG302,2,,3,3,,0
 b_weekdays,,,RG304,3,,3,3,,0
@@ -512,8 +516,9 @@ b_weekdays,,,RG381,73,,3,3,,0
 b_weekdays,,,RG383,74,,3,3,,0
 b_weekdays,,,RG385,75,,3,3,,0
 b_weekdays,,,RG386,76,,3,3,,0
-b_weekdays,01:05:00,01:05:00,RG387,77,,3,3,,0
-b_weekdays_vacations,00:00:00,00:00:00,RG300,0,,3,3,,1
+b_weekdays,,,RG387,77,,3,3,,0
+b_weekdays,01:05:00,01:05:00,RG300,78,,3,3,,0
+b_weekdays_vacations,00:00:00,00:00:00,RG300,0,,3,3,,0
 b_weekdays_vacations,,,RG301,1,,3,3,,0
 b_weekdays_vacations,,,RG302,2,,3,3,,0
 b_weekdays_vacations,,,RG304,3,,3,3,,0
@@ -590,8 +595,9 @@ b_weekdays_vacations,,,RG381,73,,3,3,,0
 b_weekdays_vacations,,,RG383,74,,3,3,,0
 b_weekdays_vacations,,,RG385,75,,3,3,,0
 b_weekdays_vacations,,,RG386,76,,3,3,,0
-b_weekdays_vacations,01:05:00,01:05:00,RG387,77,,3,3,,0
-b_saturdays,00:00:00,00:00:00,RG300,0,,3,3,,1
+b_weekdays_vacations,,,RG387,77,,3,3,,0
+b_weekdays_vacations,01:05:00,01:05:00,RG300,78,,3,3,,0
+b_saturdays,00:00:00,00:00:00,RG300,0,,3,3,,0
 b_saturdays,,,RG301,1,,3,3,,0
 b_saturdays,,,RG302,2,,3,3,,0
 b_saturdays,,,RG304,3,,3,3,,0
@@ -668,8 +674,9 @@ b_saturdays,,,RG381,73,,3,3,,0
 b_saturdays,,,RG383,74,,3,3,,0
 b_saturdays,,,RG385,75,,3,3,,0
 b_saturdays,,,RG386,76,,3,3,,0
-b_saturdays,01:05:00,01:05:00,RG387,77,,3,3,,0
-b_holidays,00:00:00,00:00:00,RG300,0,,3,3,,1
+b_saturdays,,,RG387,77,,3,3,,0
+b_saturdays,01:05:00,01:05:00,RG300,78,,3,3,,0
+b_holidays,00:00:00,00:00:00,RG300,0,,3,3,,0
 b_holidays,,,RG301,1,,3,3,,0
 b_holidays,,,RG302,2,,3,3,,0
 b_holidays,,,RG304,3,,3,3,,0
@@ -746,7 +753,8 @@ b_holidays,,,RG381,73,,3,3,,0
 b_holidays,,,RG383,74,,3,3,,0
 b_holidays,,,RG385,75,,3,3,,0
 b_holidays,,,RG386,76,,3,3,,0
-b_holidays,01:05:00,01:05:00,RG387,77,,3,3,,0
+b_holidays,,,RG387,77,,3,3,,0
+b_holidays,01:05:00,01:05:00,RG300,78,,3,3,,0
 c_weekdays,00:00:00,00:00:00,RG200,0,,3,3,,0
 c_weekdays,,,RG201,1,,3,3,,0
 c_weekdays,,,RG202,2,,3,3,,0
@@ -812,7 +820,7 @@ c_weekdays,,,RG118,61,,3,3,,0
 c_weekdays,,,RG119,62,,3,3,,0
 c_weekdays,,,RG120,63,,3,3,,0
 c_weekdays,,,RG121,64,,3,3,,0
-c_weekdays,,,RG031,65,,3,3,,1
+c_weekdays,,,RG031,65,,3,3,,0
 c_weekdays,,,RG122,66,,3,3,,0
 c_weekdays,,,RG270,67,,3,3,,0
 c_weekdays,,,RG271,68,,3,3,,0
@@ -830,7 +838,8 @@ c_weekdays,,,RG282,79,,3,3,,0
 c_weekdays,,,RG283,80,,3,3,,0
 c_weekdays,,,RG284,81,,3,3,,0
 c_weekdays,,,RG285,82,,3,3,,0
-c_weekdays,01:10:00,01:10:00,RG286,83,,3,3,,0
+c_weekdays,,,RG286,83,,3,3,,0
+c_weekdays,01:10:00,01:10:00,RG200,84,,3,3,,0
 c_weekdays_vacations,00:00:00,00:00:00,RG200,0,,3,3,,0
 c_weekdays_vacations,,,RG201,1,,3,3,,0
 c_weekdays_vacations,,,RG202,2,,3,3,,0
@@ -896,7 +905,7 @@ c_weekdays_vacations,,,RG118,61,,3,3,,0
 c_weekdays_vacations,,,RG119,62,,3,3,,0
 c_weekdays_vacations,,,RG120,63,,3,3,,0
 c_weekdays_vacations,,,RG121,64,,3,3,,0
-c_weekdays_vacations,,,RG031,65,,3,3,,1
+c_weekdays_vacations,,,RG031,65,,3,3,,0
 c_weekdays_vacations,,,RG122,66,,3,3,,0
 c_weekdays_vacations,,,RG270,67,,3,3,,0
 c_weekdays_vacations,,,RG271,68,,3,3,,0
@@ -914,7 +923,8 @@ c_weekdays_vacations,,,RG282,79,,3,3,,0
 c_weekdays_vacations,,,RG283,80,,3,3,,0
 c_weekdays_vacations,,,RG284,81,,3,3,,0
 c_weekdays_vacations,,,RG285,82,,3,3,,0
-c_weekdays_vacations,01:10:00,01:10:00,RG286,83,,3,3,,0
+c_weekdays_vacations,,,RG286,83,,3,3,,0
+c_weekdays_vacations,01:10:00,01:10:00,RG200,84,,3,3,,0
 c_saturdays,00:00:00,00:00:00,RG200,0,,3,3,,0
 c_saturdays,,,RG201,1,,3,3,,0
 c_saturdays,,,RG202,2,,3,3,,0
@@ -980,7 +990,7 @@ c_saturdays,,,RG118,61,,3,3,,0
 c_saturdays,,,RG119,62,,3,3,,0
 c_saturdays,,,RG120,63,,3,3,,0
 c_saturdays,,,RG121,64,,3,3,,0
-c_saturdays,,,RG031,65,,3,3,,1
+c_saturdays,,,RG031,65,,3,3,,0
 c_saturdays,,,RG122,66,,3,3,,0
 c_saturdays,,,RG270,67,,3,3,,0
 c_saturdays,,,RG271,68,,3,3,,0
@@ -998,7 +1008,8 @@ c_saturdays,,,RG282,79,,3,3,,0
 c_saturdays,,,RG283,80,,3,3,,0
 c_saturdays,,,RG284,81,,3,3,,0
 c_saturdays,,,RG285,82,,3,3,,0
-c_saturdays,01:10:00,01:10:00,RG286,83,,3,3,,0
+c_saturdays,,,RG286,83,,3,3,,0
+c_saturdays,01:10:00,01:10:00,RG200,84,,3,3,,0
 c_holidays,00:00:00,00:00:00,RG200,0,,3,3,,0
 c_holidays,,,RG201,1,,3,3,,0
 c_holidays,,,RG202,2,,3,3,,0
@@ -1064,7 +1075,7 @@ c_holidays,,,RG118,61,,3,3,,0
 c_holidays,,,RG119,62,,3,3,,0
 c_holidays,,,RG120,63,,3,3,,0
 c_holidays,,,RG121,64,,3,3,,0
-c_holidays,,,RG031,65,,3,3,,1
+c_holidays,,,RG031,65,,3,3,,0
 c_holidays,,,RG122,66,,3,3,,0
 c_holidays,,,RG270,67,,3,3,,0
 c_holidays,,,RG271,68,,3,3,,0
@@ -1082,8 +1093,9 @@ c_holidays,,,RG282,79,,3,3,,0
 c_holidays,,,RG283,80,,3,3,,0
 c_holidays,,,RG284,81,,3,3,,0
 c_holidays,,,RG285,82,,3,3,,0
-c_holidays,01:10:00,01:10:00,RG286,83,,3,3,,0
-d_everyday,00:00:00,00:00:00,RG308,0,,3,3,,1
+c_holidays,,,RG286,83,,3,3,,0
+c_holidays,01:10:00,01:10:00,RG200,84,,3,3,,0
+d_everyday,00:00:00,00:00:00,RG308,0,,3,3,,0
 d_everyday,,,RG400,1,,3,3,,0
 d_everyday,,,RG401,2,,3,3,,0
 d_everyday,,,RG403,3,,3,3,,0
@@ -1097,4 +1109,5 @@ d_everyday,,,RG411,10,,3,3,,0
 d_everyday,,,RG412,11,,3,3,,0
 d_everyday,,,RG413,12,,3,3,,0
 d_everyday,,,RG242,13,,3,3,,0
-d_everyday,00:50:00,00:50:00,RG415,14,,3,3,,0
+d_everyday,,,RG415,14,,3,3,,0
+d_everyday,00:50:00,00:50:00,RG308,15,,3,3,,0

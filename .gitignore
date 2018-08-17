@@ -9,3 +9,6 @@ validation-results.html
 
 .vscode/
 generated/
+
+# Jar files like OTP used for local debugging
+*.jar
