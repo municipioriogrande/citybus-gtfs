@@ -18,12 +18,12 @@ RG259,RG259,Avenida San Martín y Pasaje Remolcador Fournier,,-53.781672,-67.710
 RG338,RG338,José M. Estrada y D Agostini,,-53.796361,-67.722173,,,0,,,0
 RG007,RG007,Oroski y Mevi,,-53.804237,-67.651797,,,0,,,0
 RG030,RG030,Doctor Calle Pacheco y José Ingenieros,,-53.79586,-67.688956,,,0,,,0
-RG131,RG131,Valco y Falconier,,-53.813369,-67.674623,,,0,,,0
+RG131,RG131,Valco y Falconier,,-53.81334, -67.67453,,,0,,,0
 RG242,RG242,Pcias. Unidas y Prefectura Naval,,-53.765079,-67.723514,,,0,,,0
 RG017,RG017,Los Sauces y Yourka,,-53.810706,-67.666281,,,0,,,0
 RG028,RG028,Mirko Milosevic y El Alambrador,,-53.808472,-67.684633,,,0,,,0
 RG232,RG232,Avenida San Martín y Almirante Guillermo Brown,,-53.780991,-67.71116,,,0,,,0
-RG122,RG122,Beauvoir y Rivero,,-53.792581,-67.689402,,,0,,,0
+RG122,RG122,Beauvoir y Rivero,,-53.7926222,-67.6894959,,,0,,,0
 RG208,RG208,Puyen y Uani,,-53.800755,-67.66355,,,0,,,0
 RG350,RG350,Belisario Roldán y Comandante Luis Piedrabuena,,-53.794108,-67.716926,,,0,,,0
 RG353,RG353,Avenida Manuel Belgrano y Gobernador Félix Paz,,-53.793763,-67.713069,,,0,,,0
@@ -62,7 +62,7 @@ RG236,RG236,Viedma y Lima,,-53.770824,-67.714158,,,0,,,0
 RG272,RG272,Calle Herrera y Scalabrini Ortiz,,-53.797571,-67.687143,,,0,,,0
 RG108,RG108,Uspallata y Gregoria Matorras,,-53.789339,-67.738405,,,0,,,0
 RG220,RG220,Enrique Arteche y Bernardo O'Higgins,,-53.796836,-67.684761,,,0,,,0
-RG018,RG018,Los Sauces y Rafaela Ishton,,-53.80966,-67.671458,,,0,,,0
+RG018,RG018,Los Sauces y Rafaela Ishton,,-53.8096307,-67.6714419,,,0,,,0
 RG260,RG260,Avenida San Martín y 25 De Mayo,,-53.782867,-67.707753,,,0,,,0
 RG246,RG246,Victoria Ocampo y Rosa Masobrio,,-53.76115,-67.726287,,,0,,,0
 RG325,RG325,Almafuerte y Monseñor Fagnano,,-53.794501,-67.709073,,,0,,,0
@@ -87,7 +87,7 @@ RG323,RG323,Libertad y Avenida Juan Domingo Perón Norte,,-53.795695,-67.703714,
 RG408,RG408,Ruta Nacional 3 y Mision Salesiana,,-53.724932,-67.799195,,,0,,,0
 RG001,RG001,Yaghan y Yourka,,-53.803239,-67.661785,,,0,,,0
 RG048,RG048,Punta Popper y Mariano Moreno,,-53.798154,-67.748888,,,0,,,0
-RG223,RG223,Beauvoir y Ricardo Rojas,,-53.791551,-67.690877,,,0,,,0
+RG223,RG223,Beauvoir y Ricardo Rojas,,-53.7915819,-67.6909964,,,0,,,0
 RG309,RG309,Prefectura Naval y Luro Cambaceres,,-53.769058,-67.72456,,,0,,,0
 RG503,RG503,Vapor Asturiano y Capitan H. Barrientos,,-53.79528,-67.782532,,,0,,,0
 RG320,RG320,Libertad y Calle Juan Bautista Alberdi,,-53.791186,-67.697099,,,0,,,0
@@ -97,7 +97,7 @@ RG057,RG057,Río Grande y Punta Paramo,,-53.796405,-67.754005,,,0,,,0
 RG129,RG129,Monte Independencia y Valco,,-53.815767,-67.675395,,,0,,,0
 RG237,RG237,Viedma y Venezuela,,-53.76947,-67.716814,,,0,,,0
 RG255,RG255,Entre Ríos y Viedma,,-53.773246,-67.709169,,,0,,,0
-RG019,RG019,Gran Malvina y Rafaela Ishton,,-53.811447,-67.672557,,,0,,,0
+RG019,RG019,Gran Malvina y Rafaela Ishton,,-53.81144, -67.67255,,,0,,,0
 RG117,RG117,Comandante Luis Piedrabuena y Calle Leonardo Rosales,,-53.784255,-67.702325,,,0,,,0
 RG140,RG140,Tolhuin y Karukinka,,-53.805907,-67.661362,,,0,,,0
 RG300,RG300,Doctor Raúl Chifflet y José Romero,,-53.774058,-67.730847,,,0,,,0
@@ -111,7 +111,7 @@ RG337,RG337,Presidente Ortiz y José M. Estrada,,-53.797593,-67.724211,,,0,,,0
 RG063,RG063,Playero Blanco y Halcon Peregrino,,-53.788375,-67.771386,,,0,,,0
 RG322,RG322,Libertad y Hipólito Yrigoyen,,-53.794361,-67.701825,,,0,,,0
 RG411,RG411,Ruta Nacional 3 y Barrio Policial,,-53.75057,-67.734237,,,0,,,0
-RG022,RG022,Valco y Albelos,,-53.814126,-67.674086,,,0,,,0
+RG022,RG022,Valco y Albelos,,-53.8141403,-67.6741477,,,0,,,0
 RG027,RG027,Mirko Milosevic y Barrio Uom,,-53.811348,-67.683222,,,0,,,0
 RG202,RG202,Hoiken y Koyuska,,-53.805301,-67.658899,,,0,,,0
 RG301,RG301,Geronimo Vukasovic y Ramón Díaz Chara,,-53.772283,-67.732987,,,0,,,0
@@ -123,7 +123,7 @@ RG277,RG277,El Alambrador y Rafaela Ishton,,-53.806207,-67.67134,,,0,,,0
 RG381,RG381,Ramón Cortez y Geronimo Vukasovic,,-53.77,-67.737338,,,0,,,0
 RG254,RG254,Ushuaia y Santa Cruz,,-53.771734,-67.70955,,,0,,,0
 RG040,RG040,Don Bosco y Avenida San Martín,,-53.782563,-67.709373,,,0,,,0
-RG128,RG128,Monte Independencia y Giachino -T Del Fuego,,-53.814988,-67.678662,,,0,,,0
+RG128,RG128,Monte Independencia y Giachino -T Del Fuego,,-53.815, -67.67869,,,0,,,0
 RG275,RG275,El Alambrador y La Farmacia,,-53.806005,-67.679713,,,0,,,0
 RG358,RG358,Cristóbal Colón y Libertad,,-53.795125,-67.703022,,,0,,,0
 RG383,RG383,Juan Visic y Luis Garibaldi Honte,,-53.771024,-67.738212,,,0,,,0
@@ -140,7 +140,7 @@ RG059,RG059,Punta Popper y Kaiken,,-53.789101,-67.766633,,,0,,,0
 RG100,RG100,Ruta Provincial C y Chorlo Ceniciento,,-53.786591,-67.769047,,,0,,,0
 RG329,RG329,J. B. Thorne y Belisario Roldán,,-53.792707,-67.719432,,,0,,,0
 RG006,RG006,Oroski y Alietati,,-53.803635,-67.654012,,,0,,,0
-RG137,RG137,San Jorge y Tercero B,,-53.808748,-67.66332,,,0,,,0
+RG137,RG137,San Jorge y Tercero B,,-53.8087623,-67.6632369,,,0,,,0
 RG142,RG142,Mevi y Tolhuin,,-53.807791,-67.654366,,,0,,,0
 RG217,RG217,El Alambrador y Mirko Milosevic,,-53.808206,-67.684665,,,0,,,0
 RG326,RG326,Almafuerte y Avenida Manuel Belgrano,,-53.793075,-67.71183,,,0,,,0
@@ -165,7 +165,7 @@ RG055,RG055,Río Grande y Hermana Noemi María Ruiz,,-53.799117,-67.757905,,,0,,
 RG101,RG101,Ruta Provincial C y Golondrina Patagonica,,-53.786708,-67.766451,,,0,,,0
 RG119,RG119,Avenida San Martín y Comandante T. Espora,,-53.787992,-67.697791,,,0,,,0
 RG126,RG126,Mirko Milosevic y Barrio Uom,,-53.81132,-67.683495,,,0,,,0
-RG031,RG031,Beauvoir y Ricardo Rojas,,-53.791535,-67.690957,,,0,,,0
+RG031,RG031,Beauvoir y Ricardo Rojas,,-53.7915049,-67.6908953,,,0,,,0
 RG049,RG049,Mariano Moreno y Punta María,,-53.798813,-67.750068,,,0,,,0
 RG012,RG012,Tolhuin y Kau,,-53.806483,-67.658738,,,0,,,0
 RG114,RG114,25 De Mayo y Avenida San Martín,,-53.78307,-67.707732,,,0,,,0
@@ -186,7 +186,7 @@ RG250,RG250,Lapataia y Eva Perón,,-53.766737,-67.716004,,,0,,,0
 RG257,RG257,Posadas y Buenos Aires,,-53.775557,-67.710387,,,0,,,0
 RG004,RG004,Oroski y Kekombosh,,-53.802637,-67.659044,,,0,,,0
 RG035,RG035,Avenida Manuel Belgrano y Calle Leonardo Rosales,,-53.785079,-67.700415,,,0,,,0
-RG130,RG130,Valco y Albelos,,-53.813901,-67.674258,,,0,,,0
+RG130,RG130,Valco y Albelos,,-53.81388, -67.67419,,,0,,,0
 RG200,RG200,Yourka y Hoiken,,-53.804389,-67.662435,,,0,,,0
 RG204,RG204,Koyuska y Oroski,,-53.803065,-67.657301,,,0,,,0
 RG211,RG211,Uani y Tolhuin,,-53.804772,-67.665927,,,0,,,0
@@ -196,7 +196,7 @@ RG002,RG002,Yaghan y Keninek,,-53.803109,-67.662526,,,0,,,0
 RG003,RG003,Keninek y Oroski,,-53.802175,-67.662107,,,0,,,0
 RG311,RG311,Avenida San Martín y Fray Justo María De Oro,,-53.778651,-67.716041,,,0,,,0
 RG363,RG363,Ricardo Rojas y José Ingenieros,,-53.793652,-67.69277,,,0,,,0
-RG024,RG024,Monte Independencia y Tierra Del Fuego,,-53.815032,-67.678394,,,0,,,0
+RG024,RG024,Monte Independencia y Tierra Del Fuego,,-53.8150209,-67.678386,,,0,,,0
 RG258,RG258,Avenida San Martín y Almirante Guillermo Brown,,-53.780766,-67.71183,,,0,,,0
 RG336,RG336,25 De Mayo y Presidente Ortiz,,-53.796155,-67.726818,,,0,,,0
 RG351,RG351,Avenida Manuel Belgrano y Avenida Juan Domingo Perón Norte,,-53.794916,-67.714786,,,0,,,0
@@ -228,7 +228,7 @@ RG051,RG051,Mariano Moreno y Santa María Dominga Mazzarello,,-53.802751,-67.754
 RG116,RG116,Alferez Mackinlay y Comandante Luis Piedrabuena,,-53.782189,-67.700286,,,0,,,0
 RG216,RG216,El Alambrador y La Farmacia,,-53.805964,-67.679772,,,0,,,0
 RG334,RG334,D Agostini y Don Bosco,,-53.794102,-67.726346,,,0,,,0
-RG021,RG021,Valco y Falconier,,-53.813217,-67.674724,,,0,,,0
+RG021,RG021,Valco y Falconier,,-53.8132344,-67.6747669,,,0,,,0
 RG033,RG033,Avenida San Martín y Comandante T. Espora,,-53.787837,-67.69755,,,0,,,0
 RG120,RG120,Avenida San Martín y Libertad,,-53.789462,-67.694916,,,0,,,0
 RG361,RG361,Ricardo Rojas y Lola Kieps,,-53.795429,-67.694868,,,0,,,0
@@ -238,9 +238,9 @@ RG206,RG206,Puyen y Karukinka,,-53.801452,-67.659441,,,0,,,0
 RG403,RG403,Prefectura Naval y Hermana Berta Weber,,-53.760649,-67.721647,,,0,,,0
 RG307,RG307,Aeroposta Argentina y Pioneros Fueguinos,,-53.766845,-67.726609,,,0,,,0
 RG364,RG364,Ricardo Rojas y Beauvoir,,-53.791513,-67.691231,,,0,,,0
-RG020,RG020,Valco y Ardiles,,-53.812609,-67.675148,,,0,,,0
+RG020,RG020,Valco y Ardiles,,-53.8126201,-67.675199,,,0,,,0
 RG054,RG054,Río Grande y Santa María Dominga Mazzarello,,-53.800331,-67.759622,,,0,,,0
-RG132,RG132,Valco y Ardiles,,-53.812793,-67.675025,,,0,,,0
+RG132,RG132,Valco y Ardiles,,-53.8127803,-67.6749419,,,0,,,0
 RG136,RG136,Karukinka y Los Sauces,,-53.810896,-67.664586,,,0,,,0
 RG256,RG256,Entre Ríos y Resistencia,,-53.774083,-67.710387,,,0,,,0
 RG285,RG285,Yewarsi y Yaghan,,-53.803708,-67.658647,,,0,,,0
